@@ -11,14 +11,16 @@ in frame systems without bracing with OMF design levels, stipulated within the c
 AISC regulations.
 
 OPS-Design
-Project Author: Daniel Villarreal Leiva - Civil Engineering
-TFT Director  : Henrry Rojas Asuero, MSc. - Civil Engineering
+Project Author: Daniel Villarreal Leiva - Civil Engineer 
+TFT Director  : Henrry Rojas Asuero, MSc. - Civil Engineer 
+project advisor: Edwin Patricio Duque Y, Msc. - Civil Engineer 
 
 ************************************************************************
 ************************************************************************
 
 For more information visit the page of the Group of Seismic Engineering and Seismology of 
 the Universidad Tecnica Particular de Loja (GRISS-UTPL)
+https://ingenieriasismica.utpl.edu.ec/?q=es/software
 
 ************************************************************************
 ************************************************************************
@@ -37,8 +39,8 @@ the output information of the software.
 ************************************************************************
 
 In order to improve this tool for future versions, any suggestion will be welcome, and will 
-be received through the following link (see user manual):
-http://www.ingenieriasismica.utpl.edu.ec/?q=es
+be received through the following email:
+danielv-1097@hotmail.com
 
 ************************************************************************
 ************************************************************************

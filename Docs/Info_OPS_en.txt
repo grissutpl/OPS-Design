@@ -3,7 +3,7 @@
 
 Thanks for using OPS-Design V1.0
 Link to dowloand executable
-https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EeBSViXhYSRCsQQHJZnrDt0BBNSsPttXSyOVQNxC4gCFVA?e=Aefx93
+https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EZmw5TDdzP9AkutMWt4IkJsBJ0XkeZc2jPXfh5T7MyhpRw?e=WklRJ0
 
 
 This is a software for the preliminary optimal design of metallic structural elements

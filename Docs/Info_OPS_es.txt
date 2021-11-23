@@ -3,7 +3,8 @@
 
 Gracias por usar OPS-Design V1.0
 
-Enlace para descargar el ejecutablehttps://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EZmw5TDdzP9AkutMWt4IkJsBJ0XkeZc2jPXfh5T7MyhpRw?e=WklRJ0 
+Enlace para descargar el ejecutable
+https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EZmw5TDdzP9AkutMWt4IkJsBJ0XkeZc2jPXfh5T7MyhpRw?e=WklRJ0
 
 Este es un software para el diseño óptimo preliminar de elementos estructurales
 metálicos en sistemas de pórticos sin arriostrar con niveles de diseño OMF, estipulados

@@ -1,0 +1,1 @@
+Son funciones del mismo tipo, lo único que cambia son las salidas de los excels y los prints de las funciones madre, a y b.

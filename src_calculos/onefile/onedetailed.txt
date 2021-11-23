@@ -1,0 +1,91 @@
+DETALLE GENERAL DE RESULTADOS 
+
+Nota: Los resultados de esta sección reflejan el análisis y diseño del modelo realizado, si desea optimizar, diríjase al boton respectivo en la ventana anterior. 
+
+============================================================================================================================================================================================
+
+ Análisis Estructural
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Las fuerzas en los elementos son:  
+
+Elemento   Tipo                Pu_i                  Vu_i                    Mu_i                    Pu_j                    Vu_j                    Mu_j
+                                      [kgf]                  [kgf]                 [kgf.m]                  [kgf]                    [kgf]                  [kgf.m]
+01              Col              25260.0             -685.661            -655.139             -25260.0              685.661           -1401.844
+02              Col              25260.0              685.661             655.139             -25260.0             -685.661            1401.844
+03              Col              16780.0            -1802.011           -3052.701             -16780.0             1802.011           -2353.332
+04              Col              16780.0             1802.011            3052.701             -16780.0            -1802.011            2353.332
+05              Col               8300.0            -2210.802           -2726.762              -8300.0             2210.802           -3905.644
+06              Col               8300.0             2210.802            2726.762              -8300.0            -2210.802            3905.644
+07              Vig             -1116.35               8480.0            4454.545              1116.35               8480.0           -4454.545
+08              Vig             -408.791               8480.0            5080.093              408.791               8480.0           -5080.093
+09              Vig             2210.802               8300.0            3905.644            -2210.802               8300.0           -3905.644
+
+============================================================================================================================================================================================
+
+ Diseño estructural [LRFD]
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Indicaciones: 
+  * Mientras más cercana es la relación Demanda/Capacidad a 1 por la izquierda, más óptimo es el diseño. 
+
+Elemento   Tipo                Sección                Peso            Longitud      Peso elemento   Tipo de Verificación                                                            Pu                           Mux                      Muy                 Fhi_Pn                      Fhi_Mnx                  Fhi_Mny            Relación D/C
+                                                                 [kgf/m]              [m]               [kgf]                                                                                                   [kgf]                      [kgf.m]                  [kgf.m]               [kgf]                        [kgf.m]                    [kgf.m]               
+01              Col                  W 16X26              38.220             3.0              114.659             Por Acciones Combinadas De Flexo Compresión                  25260.0                 1401.844                 0                  62216.65                  16132.55                   2035.41                0.483
+02              Col                  W 16X26              38.220             3.0              114.659             Por Acciones Combinadas De Flexo Compresión                  25260.0                 1401.844                 0                  62216.65                  16132.55                   2035.41                0.483
+03              Col                  W 14X53              77.446             3.0              232.339             Por Acciones Combinadas De Flexo Compresión                  16780.0                 3052.701                 0                 184980.43                  31755.73                   8163.27                0.141
+04              Col                  W 14X53              77.446             3.0              232.339             Por Acciones Combinadas De Flexo Compresión                  16780.0                 3052.701                 0                 184980.43                  31755.73                   8163.27                0.141
+05              Col                  W 14X53              77.446             3.0              232.339             Por Acciones Combinadas De Flexo Compresión                   8300.0                 3905.644                 0                 184980.43                  31755.73                   8163.27                0.145
+06              Col                  W 14X53              77.446             3.0              232.339             Por Acciones Combinadas De Flexo Compresión                   8300.0                 3905.644                 0                 184980.43                  31755.73                   8163.27                0.145
+07              Vig                  W 14X61              89.270             4.0              357.080            Acciones De Flexión Solicitante En Elementos                  1116.35                 4454.545                 0                 209163.41                  37478.95                  12204.04                0.119
+08              Vig                  W 14X61              89.270             4.0              357.080            Acciones De Flexión Solicitante En Elementos                  408.791                 5080.093                 0                 209163.41                  37478.95                  12204.04                0.136
+09              Vig                  W 14X61              89.270             4.0              357.080            Acciones De Flexión Solicitante En Elementos                 2210.802                 3905.644                 0                 209163.41                  37478.95                  12204.04                0.104
+
+ El peso de todos los elementos es de:  2229.914  kgf
+El promedio de demanda/capacidad es de:  0.211
+
+============================================================================================================================================================================================
+
+ Criterio correcto de ensamble en las uniones
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  Indicaciones: 
+  * Valores menores o iguales a 0 indican un correcto ensamble
+
+Restricciones para uniones Columna-Viga (Ancho de Patín) 
+
+[1, 7]                       0.818
+[2, 7]                       0.818
+[3, 8]                       0.241
+[4, 8]                       0.241
+[5, 9]                       0.241
+[6, 9]                       0.241
+
+
+Restricciones para uniones Columna-Columna (Peralte)
+[1, 3]                       -0.115 
+[2, 4]                       -0.115 
+[3, 5]                          0.0 
+[4, 6]                          0.0 
+
+
+Restricciones para uniones Columna-Columna (Ancho de Patín)
+[1, 3]                        0.465 
+[2, 4]                        0.465 
+[3, 5]                          0.0 
+[4, 6]                          0.0 
+
+============================================================================================================================================================================================
+
+ Criterio de miembros a compresión eficiente en ambos ejes
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  Indicaciones: 
+  * Valores mayores o iguales a 0.35 indican un comportamiento en ambos ejes debido a su relación geométrica
+
+Elemento a       Relación Ry/Rx
+compresión
+01                           0.181
+02                           0.181
+03                            0.33
+04                            0.33
+05                            0.33
+06                            0.33

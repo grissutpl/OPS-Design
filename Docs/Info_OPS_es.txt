@@ -1,0 +1,43 @@
+﻿***************************************************************************************
+***************************************************************************************
+
+Gracias por usar OPS-Design V1.0
+
+Enlace para descargar el ejecutable
+https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EeBSViXhYSRCsQQHJZnrDt0BBNSsPttXSyOVQNxC4gCFVA?e=Aefx93
+
+
+Este es un software para el diseño óptimo preliminar de elementos estructurales
+metálicos en sistemas de pórticos sin arriostrar con niveles de diseño OMF, estipulados
+dentro de la correspondiente normativa AISC.
+
+OPS-Design
+Autor del proyecto: 	Daniel Villarreal Leiva - Ingeniería Civil
+Director TFT:		Henrry Rojas Asuero, MSc. - Ingeniería Civil
+
+***************************************************************************************
+
+Para más información visite la página del Grupo de Ingeniería Sísmica y Sismología de
+la Universidad Técnica Particular de Loja (GRISS-UTPL)
+
+***************************************************************************************
+
+Se recomienda que las estructuras a optimizar no sean mayores a seis pisos, estamos en
+sistemas OMF.
+
+***************************************************************************************
+
+Nota aclaratoria: El programa no se hace responsable por la mala utilización que derive
+en un diseño defectuoso, el usuario debe tener en cuenta los criterios de diseño para
+elementos estructurales en acero e interpretar la información de salida del software.
+
+***************************************************************************************
+
+Con el fin de mejorar la presente herramienta para las futuras versiones, toda sugerencia 
+será bienvenida, y se receptará a través del siguiente enlace (ver manualde usuario): 
+http://www.ingenieriasismica.utpl.edu.ec/?q=es
+
+***************************************************************************************
+
+OPS Design - Versión 1.0
+(Noviembre, 2020)

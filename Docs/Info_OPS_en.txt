@@ -1,0 +1,47 @@
+************************************************************************
+************************************************************************
+
+Thanks for using OPS-Design V1.0
+Link to dowloand executable
+https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EeBSViXhYSRCsQQHJZnrDt0BBNSsPttXSyOVQNxC4gCFVA?e=Aefx93
+
+
+This is a software for the preliminary optimal design of metallic structural elements
+in frame systems without bracing with OMF design levels, stipulated within the corresponding 
+AISC regulations.
+
+OPS-Design
+Project Author: Daniel Villarreal Leiva - Civil Engineering
+TFT Director  : Henrry Rojas Asuero, MSc. - Civil Engineering
+
+************************************************************************
+************************************************************************
+
+For more information visit the page of the Group of Seismic Engineering and Seismology of 
+the Universidad Tecnica Particular de Loja (GRISS-UTPL)
+
+************************************************************************
+************************************************************************
+
+It is recommended that the structures to be optimized are not greater than six floors, 
+we are in OMF systems.
+
+************************************************************************
+************************************************************************
+
+Explanatory note: The program is not responsible for misuse resulting in a defective design, 
+the user must take into account the design criteria for structural steel elements and interpret 
+the output information of the software.
+
+************************************************************************
+************************************************************************
+
+In order to improve this tool for future versions, any suggestion will be welcome, and will 
+be received through the following link (see user manual):
+http://www.ingenieriasismica.utpl.edu.ec/?q=es
+
+************************************************************************
+************************************************************************
+
+OPS Design - Version 1.0
+(November, 2020)

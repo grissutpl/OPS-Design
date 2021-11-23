@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2414</width>
+    <height>1272</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>OPS Design</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../icono.png</normaloff>../icono.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label">
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>../iconoventana.JPG</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Unidades: kgf - m - sec&lt;span style=&quot; color:#ffffff;&quot;&gt;........&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>2414</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuDatos">
+    <property name="title">
+     <string>Datos</string>
+    </property>
+    <addaction name="actionDatosDeEntrada"/>
+    <addaction name="separator"/>
+    <addaction name="actionSalir_2"/>
+   </widget>
+   <widget class="QMenu" name="menuResultados">
+    <property name="title">
+     <string>Mostrar</string>
+    </property>
+    <addaction name="actionResultados"/>
+   </widget>
+   <widget class="QMenu" name="menuAcerca_de">
+    <property name="title">
+     <string>Acerca de...</string>
+    </property>
+    <widget class="QMenu" name="menuVisor_de_Perfiles">
+     <property name="title">
+      <string>Visor de Perfiles</string>
+     </property>
+     <addaction name="actionSecciones_W"/>
+    </widget>
+    <addaction name="actionOPS_Design"/>
+    <addaction name="menuVisor_de_Perfiles"/>
+   </widget>
+   <addaction name="menuDatos"/>
+   <addaction name="menuResultados"/>
+   <addaction name="menuAcerca_de"/>
+  </widget>
+  <action name="actionNuevoModelo">
+   <property name="text">
+    <string>Nuevo Modelo</string>
+   </property>
+  </action>
+  <action name="actionSalir">
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </action>
+  <action name="actionDatosDeEntrada">
+   <property name="text">
+    <string>Datos de entrada e inicialización</string>
+   </property>
+  </action>
+  <action name="actionResultados">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Cuadro Resultados</string>
+   </property>
+  </action>
+  <action name="actionDise_o_A">
+   <property name="text">
+    <string>Diseño A</string>
+   </property>
+  </action>
+  <action name="actionDise_o_B">
+   <property name="text">
+    <string>Diseño B</string>
+   </property>
+  </action>
+  <action name="actionProceso_optimizador">
+   <property name="text">
+    <string>Proceso optimizador</string>
+   </property>
+  </action>
+  <action name="actionanalisis1">
+   <property name="text">
+    <string>analisis1</string>
+   </property>
+  </action>
+  <action name="actionanalisis2">
+   <property name="text">
+    <string>analisis2</string>
+   </property>
+  </action>
+  <action name="actionProcesouniones1">
+   <property name="text">
+    <string>Procesouniones1</string>
+   </property>
+  </action>
+  <action name="actionProcesouniones2">
+   <property name="text">
+    <string>Procesouniones2</string>
+   </property>
+  </action>
+  <action name="actionDesglose">
+   <property name="text">
+    <string>Desglose</string>
+   </property>
+  </action>
+  <action name="actionOPS_Design">
+   <property name="text">
+    <string>OPS Design</string>
+   </property>
+  </action>
+  <action name="actionSalir_2">
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </action>
+  <action name="actionSecciones_W">
+   <property name="text">
+    <string>Perfiles W</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="test.qrc"/>
+ </resources>
+ <connections/>
+</ui>

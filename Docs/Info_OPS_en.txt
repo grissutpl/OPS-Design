@@ -13,7 +13,7 @@ AISC regulations.
 OPS-Design
 Project Author: Daniel Villarreal Leiva - Civil Engineer 
 TFT Director  : Henrry Rojas Asuero, MSc. - Civil Engineer 
-project advisor: Edwin Patricio Duque Y, Msc. - Civil Engineer 
+Project advisor: Edwin Patricio Duque Y, Msc. - Civil Engineer 
 
 ************************************************************************
 ************************************************************************

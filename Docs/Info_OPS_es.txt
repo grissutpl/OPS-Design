@@ -13,11 +13,13 @@ dentro de la correspondiente normativa AISC.
 OPS-Design
 Autor del proyecto: 	Daniel Villarreal Leiva - Ingeniería Civil
 Director TFT:		Henrry Rojas Asuero, MSc. - Ingeniería Civil
+Asesor de proyecto: Edwin Patricio Duque Y, MSc. -Ingeniero Civil. 
 
 ***************************************************************************************
 
 Para más información visite la página del Grupo de Ingeniería Sísmica y Sismología de
 la Universidad Técnica Particular de Loja (GRISS-UTPL)
+https://ingenieriasismica.utpl.edu.ec/?q=es/software 
 
 ***************************************************************************************
 
@@ -33,8 +35,8 @@ elementos estructurales en acero e interpretar la información de salida del sof
 ***************************************************************************************
 
 Con el fin de mejorar la presente herramienta para las futuras versiones, toda sugerencia 
-será bienvenida, y se receptará a través del siguiente enlace (ver manualde usuario): 
-http://www.ingenieriasismica.utpl.edu.ec/?q=es
+será bienvenida, y se receptará a través del siguiente correo: 
+danielv-1097@hotmail.com
 
 ***************************************************************************************
 

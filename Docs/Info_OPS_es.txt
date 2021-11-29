@@ -1,7 +1,7 @@
 ﻿***************************************************************************************
 ***************************************************************************************
 
-Gracias por usar OPS-Design V1.0
+Gracias por usar OPS-Design V2.0
 
 Enlace para descargar el ejecutable
 https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EZmw5TDdzP9AkutMWt4IkJsBJ0XkeZc2jPXfh5T7MyhpRw?e=WklRJ0
@@ -40,5 +40,5 @@ danielv-1097@hotmail.com
 
 ***************************************************************************************
 
-OPS Design - Versión 1.0
-(Noviembre, 2020)
+OPS Design - Versión 2.0
+(Diciembre, 2021)

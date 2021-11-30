@@ -6,7 +6,7 @@
 Thanks for using OPS-Design V2.0
 
 Link to dowloand executable
-https://utpl-my.sharepoint.com/:u:/g/personal/epduque_utpl_edu_ec/EZmw5TDdzP9AkutMWt4IkJsBJ0XkeZc2jPXfh5T7MyhpRw?e=WklRJ0
+https://ingenieriasismica.utpl.edu.ec/?q=es/OPS_Design 
 
 
 This is a software for the preliminary optimal design of metallic structural elements
@@ -23,7 +23,7 @@ Project advisor: Edwin Patricio Duque Y, Msc. - Civil Engineer
 
 For more information visit the page of the Group of Seismic Engineering and Seismology of 
 the Universidad Tecnica Particular de Loja (GRISS-UTPL)
-https://ingenieriasismica.utpl.edu.ec/?q=es/software
+https://ingenieriasismica.utpl.edu.ec/?q=es/OPS_Design
 
 ************************************************************************
 ************************************************************************

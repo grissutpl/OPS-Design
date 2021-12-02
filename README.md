@@ -5,10 +5,6 @@
 
 Thanks for using OPS-Design V2.0
 
-Link to dowloand executable
-https://ingenieriasismica.utpl.edu.ec/?q=es/OPS_Design 
-
-
 This is a software for the preliminary optimal design of metallic structural elements
 in frame systems without bracing with OMF design levels, stipulated within the corresponding 
 AISC regulations.
@@ -20,6 +16,14 @@ Project advisor: Edwin Patricio Duque Y, Msc. - Civil Engineer
 
 ************************************************************************
 ************************************************************************
+
+To download the executable file, visit the next web page
+
+https://ingenieriasismica.utpl.edu.ec/?q=es/OPS_Design 
+
+To train about software use, you can visit the following video.
+
+https://youtu.be/WcfUK_9ryyg
 
 For more information visit the page of the Group of Seismic Engineering and Seismology of 
 the Universidad Tecnica Particular de Loja (GRISS-UTPL)

@@ -21,7 +21,7 @@ To download the executable file, visit the next web page
 
 https://ingenieriasismica.utpl.edu.ec/?q=es/OPS_Design 
 
-To train about software use, you can visit the following video.
+To receive training about software use, you can visit the following video.
 
 https://youtu.be/WcfUK_9ryyg
 
